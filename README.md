@@ -40,7 +40,7 @@ Every thriving online business begins with clarity: who you serve, what value yo
 - Set achievable goals  
 - Focus on customer trust  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -56,7 +56,7 @@ From eCommerce and freelancing to coaching and digital products — there’s a 
 - Plan for scalability  
 - Reduce startup risks  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -72,7 +72,7 @@ Your website, content, and visuals define your credibility. Discover how to buil
 - Build social proof  
 - Use AI for design and copy  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -88,7 +88,7 @@ Turn your knowledge into value! Learn how to create, price, and launch your firs
 - Automate delivery  
 - Market with AI tools  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -104,7 +104,7 @@ Even the best ideas need visibility. Discover effective ways to promote your bus
 - Create content that converts  
 - Track performance  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -120,7 +120,7 @@ AI is your new business partner. Learn how to automate marketing, customer suppo
 - Boost productivity  
 - Scale efficiently  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -136,7 +136,7 @@ Data reveals your next move. Learn to track performance and use insights to grow
 - Optimize campaigns  
 - Predict customer needs  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -152,7 +152,7 @@ The internet is borderless. Learn how to adapt and sell to a global audience.
 - Build trust across cultures  
 - Use global platforms  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -168,7 +168,7 @@ It’s time to grow! Use systems that scale your workload and profits efficientl
 - Manage workflows  
 - Hire smartly  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -184,7 +184,7 @@ Your community is your biggest asset. Keep them engaged and loyal for life.
 - Communicate authentically  
 - Reward loyalty  
 
-<a href="https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/">
+<a href="https://debeatzgh1.github.io/Curated-Guides-for-Online-Business-AI-Product-Creation/">
   <img src="https://img.shields.io/badge/Learn%20More%20About%20Online%20Business-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -207,4 +207,5 @@ Your community is your biggest asset. Keep them engaged and loyal for life.
 ---
 
 ## 🧠 **Author**
+
 Created by **[DebeatzGH](https://debeatzgh1.github.io/Digital-Creator-s-Essential-Guides-Tools/)** — helping creators, students, and entrepreneurs master digital growth, AI tools, and online business success.
