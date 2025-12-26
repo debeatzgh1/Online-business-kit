@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       text: "📌 Blog",
       bg: "#16a34a",
-      url: "https://debeatzgh1.blogspot.com/"
+      url: "https://debeatzgh.wordpress.com/e-commerce-web-designing/"
     },
     {
       text: "💡 Ideas",
